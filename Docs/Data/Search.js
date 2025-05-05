@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Introduction Topics/Basic Steps.htm'],s:['+','involv','tradit'],p:[['+',19],['cause',24],['eliminating',2],['if',18],['meis',50],['principes',46],['strategies',6],['use',14]]});
